@@ -1,0 +1,21 @@
+[
+  {
+    "_id": "bb9aa70a-46b7-4d66-9f68-b1bf12150bd1",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8080/users/register",
+    "url": "http://localhost:8080/users/register",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-05-02T10:41:39.566Z",
+    "modified": "2023-05-02T10:46:50.939Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\": \"vishal\",\n  \"email\": \"vishal\",\n  \"password\": \"babu\",\n  \"city\": \"Lko\",\n  \"age\": 27\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
